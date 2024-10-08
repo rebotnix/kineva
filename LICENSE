@@ -1,0 +1,51 @@
+KINEVA Non-Commercial License (KNCL)
+Version 1.0, October 2024
+
+Preamble:
+
+This license is based on the GNU Affero General Public License (AGPL) Version 3, with modifications to restrict commercial use. KINEVA is free to use for scientific, academic, and non-commercial purposes, but any form of commercial exploitation, such as selling, offering services based on it, or using it in products for profit, is prohibited.
+
+Terms and Conditions:
+
+Definitions:
+
+"Commercial Use" means any activity intended for or directed towards commercial advantage or monetary compensation. This includes but is not limited to: (i) offering the software as part of a paid service, (ii) using the software in a commercial product or service, or (iii) generating revenue directly or indirectly from the use of the software.
+"Non-Commercial Use" means use of the software solely for educational, academic, research, personal, or other non-profit purposes.
+Permissions:
+
+You may use, modify, and distribute this software, as long as it is not used for any Commercial Use.
+You are allowed to make copies of this software and share it with others for Non-Commercial Use under the terms of this license.
+Commercial Use Prohibition:
+
+This software may not be used for any Commercial Use. If you wish to use this software for commercial purposes, you must obtain a separate commercial license from the copyright holder.
+Prohibited activities under this clause include, but are not limited to:
+Selling, renting, or leasing the software.
+Offering paid support, services, or consulting related to the software.
+Using the software as part of a product or service that generates income.
+Running the software on servers or cloud services that charge for access to the software or services provided by the software.
+Source Code and Modifications:
+
+If you modify the software, you must clearly indicate that it has been modified and retain prominent notices that refer to this license.
+Any modified versions must also be distributed under the same terms of this license, with the prohibition of commercial use intact.
+Network Interaction:
+
+If you operate this software as part of a network service (e.g., a web application), you must provide access to the complete source code of the modified version to all users who interact with the software over the network.
+The source code must be made available free of charge under this license.
+Disclaimer of Warranty:
+
+This software is provided "as is," without any express or implied warranty. The authors are not responsible for any damages that may arise from using the software.
+
+Limitation of Liability:
+
+In no event will the copyright holders or contributors be liable for any damages arising from the use or inability to use this software.
+
+Termination:
+
+If you violate the terms of this license, your rights under this license will automatically terminate.
+
+Relicensing for Commercial Use:
+
+For commercial use or exceptions to the non-commercial clause, you must contact the copyright holder for a separate commercial license agreement.
+
+End of Terms and Conditions
+

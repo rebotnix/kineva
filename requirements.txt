@@ -1,0 +1,14 @@
+pyyaml
+loguru
+numpy
+torch
+torchvision
+opencv-python
+pandas
+scipy
+requests
+tqdm
+matplotlib
+seaborn
+thop
+tabulate

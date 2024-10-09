@@ -1,0 +1,5 @@
+#load venv
+source ../rb_venv/bin/activate
+
+#run example
+python inference_kineva.py 

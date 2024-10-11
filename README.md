@@ -72,7 +72,7 @@ Thank you for trying out KINEVA Model 1! We welcome any feedback or contribution
    pip install -r requirements.txt
    ```
 
-3. Download the KINEVA Model 1 from the [models folder](#).
+3. Download the KINEVA Model 1 from the models folder.
 
 4. You're ready to go! You can start using the model in your projects.
 
